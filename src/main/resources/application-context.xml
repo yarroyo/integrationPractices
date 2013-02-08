@@ -4,6 +4,6 @@
  
 <beans>
   <bean id="hello" class="com.kualli.webSpring.SayHello">
-    <property name="name" value="hola otra cara de perro" />
+    <property name="name" value="vamos a ver que pasa" />
   </bean>
 </beans>
